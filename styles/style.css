@@ -120,6 +120,10 @@ html {
     padding: 0 10px;
 }
 
+#medac {
+    color: blue; /* Cambia el color del texto a azul */
+}
+
 .academicos h4 {
     font-size: 1rem;
     margin-top: 20px;
