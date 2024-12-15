@@ -121,7 +121,15 @@ html {
 }
 
 #medac b{
-    color: blue; /* Cambia el color del texto a azul */
+    color: blue; 
+}
+
+#bachiller b{
+    color: blue;
+}
+
+#colegio b{
+    color: blue;
 }
 
 .academicos h4 {
